@@ -1,12 +1,13 @@
 {
-  "version_code": 999,
-  "version_name": "2.5",
-  "apk_url": "https://github.com/im-israrbrohi/sana-updates/releases/download/V2.5/Sanaullah.GameV2.5.apk",
+  "version_code": 4,
+  "version_name": "2.6",
+  "apk_url": "https://github.com/im-israrbrohi/sana-updates/releases/download/V2.6/Sanaullah.Gamev2.6.apk",
   "changelog": [
     "🔥 Gameplay improvements",
     "⚡ Performance optimization",
     "🐛 Fixed known bugs",
-    "Improved the smoothness drastically"
+    "Improved the smoothness drastically",
+    "Fixed Update logic"
   ],
   "force_update": false
 }
